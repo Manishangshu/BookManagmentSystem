@@ -1,0 +1,85 @@
+﻿
+@{
+    ViewBag.Title = "baseview";
+}
+
+<h2 style="color:white">Welcome Admin</h2>
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>baseview</title>
+    <style>
+      /*  .card {
+            height: 100%;
+        }
+
+        .card-img-top {
+            width: 100%;
+            height: 15vw;
+            object-fit: cover;
+        }*/
+        .card {
+            height: 100%;
+        }
+
+        .card-img-top {
+            width: 100%;
+            height: 15vw;
+            object-fit: cover;
+        }
+
+        /* Add this to center the boxes */
+        .row {
+            display: flex;
+            justify-content: center;
+        }
+    </style>
+</head>
+<body  style="background-image: url('/Content/images/book3.jpg');">
+    @* book card*@
+    <div class="row">
+        <div class="col-sm-4 d-flex">
+            <div class="card" >
+                <img src="~/Content/images/bookcard.jpg" class="card-img-top" alt="book cart">
+                <div class="card-body" style=" background-color: lightgreen;">
+                    <h5 class="card-title">Books Section</h5>
+                    <p class="card-text">All of your book are there admin, add some new one</p>
+                    <a href="/Book/Index" class="btn btn-primary">Go to Books</a>
+                </div>
+            </div>
+        </div>
+   
+
+    @* user card*@
+    
+        <div class="col-sm-4 d-flex">
+            <div class="card" >
+                <img src="~/Content/images/user.jpg" class="card-img-top" alt="user cart">
+                <div class="card-body">
+                    <h5 class="card-title">User Section</h5>
+                    <p class="card-text">All of your users are there admin, go and check their details</p>
+                    <a href="/Book/CustomerDetails" class="btn btn-primary">Go to User</a>
+                </div>
+            </div>
+        </div>
+    
+
+    @*  order card*@
+   
+        <!--<div class="col-sm-4 d-flex">
+            <div class="card">
+                <img src="~/Content/images/ordercard.jpg" class="card-img-top" alt="book cart">
+                <div class="card-body"> 
+                    <h5 class="card-title">Orders</h5>
+                    <p class="card-text">All of your Orders are there admin, check it and keep work hard</p>
+                    <a href="/Book/Index" class="btn btn-primary">See All Orders </a>
+                </div>
+            </div>
+        </di--><!--v>-->
+    </div>
+
+</body>
+</html>

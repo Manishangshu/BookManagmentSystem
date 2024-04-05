@@ -1,0 +1,318 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2318087\\source\\repos\\bookmanagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8FD16AE-5546-4D2A-A38F-BA1A68CF87D9}|bookmanagement\\bookmanagement.csproj|C:\\Users\\2318087\\source\\repos\\bookmanagement\\bookmanagement\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8FD16AE-5546-4D2A-A38F-BA1A68CF87D9}|bookmanagement\\bookmanagement.csproj|solutionrelative:bookmanagement\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8FD16AE-5546-4D2A-A38F-BA1A68CF87D9}|bookmanagement\\bookmanagement.csproj|C:\\Users\\2318087\\source\\repos\\bookmanagement\\bookmanagement\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8FD16AE-5546-4D2A-A38F-BA1A68CF87D9}|bookmanagement\\bookmanagement.csproj|solutionrelative:bookmanagement\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8FD16AE-5546-4D2A-A38F-BA1A68CF87D9}|bookmanagement\\bookmanagement.csproj|c:\\users\\2318087\\source\\repos\\bookmanagement\\bookmanagement\\views\\payment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F8FD16AE-5546-4D2A-A38F-BA1A68CF87D9}|bookmanagement\\bookmanagement.csproj|solutionrelative:bookmanagement\\views\\payment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8FD16AE-5546-4D2A-A38F-BA1A68CF87D9}|bookmanagement\\bookmanagement.csproj|C:\\Users\\2318087\\source\\repos\\bookmanagement\\bookmanagement\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8FD16AE-5546-4D2A-A38F-BA1A68CF87D9}|bookmanagement\\bookmanagement.csproj|solutionrelative:bookmanagement\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8FD16AE-5546-4D2A-A38F-BA1A68CF87D9}|bookmanagement\\bookmanagement.csproj|C:\\Users\\2318087\\source\\repos\\bookmanagement\\bookmanagement\\views\\payment\\tq.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F8FD16AE-5546-4D2A-A38F-BA1A68CF87D9}|bookmanagement\\bookmanagement.csproj|solutionrelative:bookmanagement\\views\\payment\\tq.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8FD16AE-5546-4D2A-A38F-BA1A68CF87D9}|bookmanagement\\bookmanagement.csproj|c:\\users\\2318087\\source\\repos\\bookmanagement\\bookmanagement\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F8FD16AE-5546-4D2A-A38F-BA1A68CF87D9}|bookmanagement\\bookmanagement.csproj|solutionrelative:bookmanagement\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8FD16AE-5546-4D2A-A38F-BA1A68CF87D9}|bookmanagement\\bookmanagement.csproj|c:\\users\\2318087\\source\\repos\\bookmanagement\\bookmanagement\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F8FD16AE-5546-4D2A-A38F-BA1A68CF87D9}|bookmanagement\\bookmanagement.csproj|solutionrelative:bookmanagement\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8FD16AE-5546-4D2A-A38F-BA1A68CF87D9}|bookmanagement\\bookmanagement.csproj|C:\\Users\\2318087\\source\\repos\\bookmanagement\\bookmanagement\\views\\book\\welcome_admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F8FD16AE-5546-4D2A-A38F-BA1A68CF87D9}|bookmanagement\\bookmanagement.csproj|solutionrelative:bookmanagement\\views\\book\\welcome_admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8FD16AE-5546-4D2A-A38F-BA1A68CF87D9}|bookmanagement\\bookmanagement.csproj|C:\\Users\\2318087\\source\\repos\\bookmanagement\\bookmanagement\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F8FD16AE-5546-4D2A-A38F-BA1A68CF87D9}|bookmanagement\\bookmanagement.csproj|solutionrelative:bookmanagement\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8FD16AE-5546-4D2A-A38F-BA1A68CF87D9}|bookmanagement\\bookmanagement.csproj|c:\\users\\2318087\\source\\repos\\bookmanagement\\bookmanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F8FD16AE-5546-4D2A-A38F-BA1A68CF87D9}|bookmanagement\\bookmanagement.csproj|solutionrelative:bookmanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8FD16AE-5546-4D2A-A38F-BA1A68CF87D9}|bookmanagement\\bookmanagement.csproj|C:\\Users\\2318087\\source\\repos\\bookmanagement\\bookmanagement\\views\\home\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F8FD16AE-5546-4D2A-A38F-BA1A68CF87D9}|bookmanagement\\bookmanagement.csproj|solutionrelative:bookmanagement\\views\\home\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8FD16AE-5546-4D2A-A38F-BA1A68CF87D9}|bookmanagement\\bookmanagement.csproj|C:\\Users\\2318087\\source\\repos\\bookmanagement\\bookmanagement\\views\\account\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F8FD16AE-5546-4D2A-A38F-BA1A68CF87D9}|bookmanagement\\bookmanagement.csproj|solutionrelative:bookmanagement\\views\\account\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8FD16AE-5546-4D2A-A38F-BA1A68CF87D9}|bookmanagement\\bookmanagement.csproj|C:\\Users\\2318087\\source\\repos\\bookmanagement\\bookmanagement\\views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F8FD16AE-5546-4D2A-A38F-BA1A68CF87D9}|bookmanagement\\bookmanagement.csproj|solutionrelative:bookmanagement\\views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8FD16AE-5546-4D2A-A38F-BA1A68CF87D9}|bookmanagement\\bookmanagement.csproj|C:\\Users\\2318087\\source\\repos\\bookmanagement\\bookmanagement\\views\\book\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F8FD16AE-5546-4D2A-A38F-BA1A68CF87D9}|bookmanagement\\bookmanagement.csproj|solutionrelative:bookmanagement\\views\\book\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8FD16AE-5546-4D2A-A38F-BA1A68CF87D9}|bookmanagement\\bookmanagement.csproj|C:\\Users\\2318087\\source\\repos\\bookmanagement\\bookmanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8FD16AE-5546-4D2A-A38F-BA1A68CF87D9}|bookmanagement\\bookmanagement.csproj|solutionrelative:bookmanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8FD16AE-5546-4D2A-A38F-BA1A68CF87D9}|bookmanagement\\bookmanagement.csproj|C:\\Users\\2318087\\source\\repos\\bookmanagement\\bookmanagement\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F8FD16AE-5546-4D2A-A38F-BA1A68CF87D9}|bookmanagement\\bookmanagement.csproj|solutionrelative:bookmanagement\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8FD16AE-5546-4D2A-A38F-BA1A68CF87D9}|bookmanagement\\bookmanagement.csproj|C:\\Users\\2318087\\source\\repos\\bookmanagement\\bookmanagement\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F8FD16AE-5546-4D2A-A38F-BA1A68CF87D9}|bookmanagement\\bookmanagement.csproj|solutionrelative:bookmanagement\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8FD16AE-5546-4D2A-A38F-BA1A68CF87D9}|bookmanagement\\bookmanagement.csproj|C:\\Users\\2318087\\source\\repos\\bookmanagement\\bookmanagement\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F8FD16AE-5546-4D2A-A38F-BA1A68CF87D9}|bookmanagement\\bookmanagement.csproj|solutionrelative:bookmanagement\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\2318087\\source\\repos\\bookmanagement\\bookmanagement\\Views\\Payment\\Index.cshtml",
+              "RelativeDocumentMoniker": "bookmanagement\\Views\\Payment\\Index.cshtml",
+              "ToolTip": "C:\\Users\\2318087\\source\\repos\\bookmanagement\\bookmanagement\\Views\\Payment\\Index.cshtml",
+              "RelativeToolTip": "bookmanagement\\Views\\Payment\\Index.cshtml",
+              "ViewState": "AQIAADUAAAAAAAAAAAAkwEUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T08:49:53.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\2318087\\source\\repos\\bookmanagement\\bookmanagement\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "bookmanagement\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\2318087\\source\\repos\\bookmanagement\\bookmanagement\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "bookmanagement\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T08:44:01.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\2318087\\source\\repos\\bookmanagement\\bookmanagement\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "bookmanagement\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\2318087\\source\\repos\\bookmanagement\\bookmanagement\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "bookmanagement\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T08:43:10.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "C:\\Users\\2318087\\source\\repos\\bookmanagement\\bookmanagement\\Views\\Home\\Home.cshtml",
+              "RelativeDocumentMoniker": "bookmanagement\\Views\\Home\\Home.cshtml",
+              "ToolTip": "C:\\Users\\2318087\\source\\repos\\bookmanagement\\bookmanagement\\Views\\Home\\Home.cshtml",
+              "RelativeToolTip": "bookmanagement\\Views\\Home\\Home.cshtml",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAAC0AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-25T19:03:31.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SignIn.cshtml",
+              "DocumentMoniker": "C:\\Users\\2318087\\source\\repos\\bookmanagement\\bookmanagement\\Views\\Account\\SignIn.cshtml",
+              "RelativeDocumentMoniker": "bookmanagement\\Views\\Account\\SignIn.cshtml",
+              "ToolTip": "C:\\Users\\2318087\\source\\repos\\bookmanagement\\bookmanagement\\Views\\Account\\SignIn.cshtml",
+              "RelativeToolTip": "bookmanagement\\Views\\Account\\SignIn.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-25T17:40:05.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\2318087\\source\\repos\\bookmanagement\\bookmanagement\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "bookmanagement\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\2318087\\source\\repos\\bookmanagement\\bookmanagement\\Controllers\\BookController.cs",
+              "RelativeToolTip": "bookmanagement\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T17:36:30.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\2318087\\source\\repos\\bookmanagement\\bookmanagement\\Views\\Book\\Create.cshtml",
+              "RelativeDocumentMoniker": "bookmanagement\\Views\\Book\\Create.cshtml",
+              "ToolTip": "C:\\Users\\2318087\\source\\repos\\bookmanagement\\bookmanagement\\Views\\Book\\Create.cshtml",
+              "RelativeToolTip": "bookmanagement\\Views\\Book\\Create.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAFUAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-25T08:01:07.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\2318087\\source\\repos\\bookmanagement\\bookmanagement\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "bookmanagement\\Views\\Book\\Index.cshtml",
+              "ToolTip": "C:\\Users\\2318087\\source\\repos\\bookmanagement\\bookmanagement\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "bookmanagement\\Views\\Book\\Index.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-25T07:00:43.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\2318087\\source\\repos\\bookmanagement\\bookmanagement\\Views\\Book\\Delete.cshtml",
+              "RelativeDocumentMoniker": "bookmanagement\\Views\\Book\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\2318087\\source\\repos\\bookmanagement\\bookmanagement\\Views\\Book\\Delete.cshtml",
+              "RelativeToolTip": "bookmanagement\\Views\\Book\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-25T06:57:20.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Welcome_Admin.cshtml",
+              "DocumentMoniker": "C:\\Users\\2318087\\source\\repos\\bookmanagement\\bookmanagement\\Views\\Book\\Welcome_Admin.cshtml",
+              "RelativeDocumentMoniker": "bookmanagement\\Views\\Book\\Welcome_Admin.cshtml",
+              "ToolTip": "C:\\Users\\2318087\\source\\repos\\bookmanagement\\bookmanagement\\Views\\Book\\Welcome_Admin.cshtml",
+              "RelativeToolTip": "bookmanagement\\Views\\Book\\Welcome_Admin.cshtml",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAAC4AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-25T06:56:05.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SignUp.cshtml",
+              "DocumentMoniker": "C:\\Users\\2318087\\source\\repos\\bookmanagement\\bookmanagement\\Views\\Account\\SignUp.cshtml",
+              "RelativeDocumentMoniker": "bookmanagement\\Views\\Account\\SignUp.cshtml",
+              "ToolTip": "C:\\Users\\2318087\\source\\repos\\bookmanagement\\bookmanagement\\Views\\Account\\SignUp.cshtml",
+              "RelativeToolTip": "bookmanagement\\Views\\Account\\SignUp.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAACcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-24T21:35:39.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\2318087\\source\\repos\\bookmanagement\\bookmanagement\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "bookmanagement\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\2318087\\source\\repos\\bookmanagement\\bookmanagement\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "bookmanagement\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAACkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-24T13:29:50.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\2318087\\source\\repos\\bookmanagement\\bookmanagement\\Views\\Book\\Edit.cshtml",
+              "RelativeDocumentMoniker": "bookmanagement\\Views\\Book\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\2318087\\source\\repos\\bookmanagement\\bookmanagement\\Views\\Book\\Edit.cshtml",
+              "RelativeToolTip": "bookmanagement\\Views\\Book\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE4AAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-24T13:15:36.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "tq.cshtml",
+              "DocumentMoniker": "C:\\Users\\2318087\\source\\repos\\bookmanagement\\bookmanagement\\Views\\Payment\\tq.cshtml",
+              "RelativeDocumentMoniker": "bookmanagement\\Views\\Payment\\tq.cshtml",
+              "ToolTip": "C:\\Users\\2318087\\source\\repos\\bookmanagement\\bookmanagement\\Views\\Payment\\tq.cshtml",
+              "RelativeToolTip": "bookmanagement\\Views\\Payment\\tq.cshtml",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAADMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-24T12:04:16.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\2318087\\source\\repos\\bookmanagement\\bookmanagement\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "bookmanagement\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\2318087\\source\\repos\\bookmanagement\\bookmanagement\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "bookmanagement\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T11:29:55.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\2318087\\source\\repos\\bookmanagement\\bookmanagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "bookmanagement\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\2318087\\source\\repos\\bookmanagement\\bookmanagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "bookmanagement\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAgwDQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-16T11:17:29.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\2318087\\source\\repos\\bookmanagement\\bookmanagement\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "bookmanagement\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\2318087\\source\\repos\\bookmanagement\\bookmanagement\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "bookmanagement\\Controllers\\PaymentController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T10:39:13.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\2318087\\source\\repos\\bookmanagement\\bookmanagement\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "bookmanagement\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\2318087\\source\\repos\\bookmanagement\\bookmanagement\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "bookmanagement\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T10:36:32.614Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

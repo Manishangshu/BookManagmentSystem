@@ -1,0 +1,140 @@
+﻿
+@{
+    Layout = null;
+}
+@using System.Web.Mvc
+@using System.Web.Mvc.Html
+
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Book Management System</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <link rel="stylesheet" href="styles.css">
+    <style>
+
+        .navbar-brand {
+            color: whitesmoke;
+            This will change the navbar color to black
+        }
+
+        /*.navbar-brand {
+            background: url('/Content/images/studio-media-9DaOYUYnOls-unsplash.jpg') no-repeat;*/ /* This will add the image to the navbar-brand */
+        /*background-size: contain;*/ /* This will make sure the image fits within the navbar-brand */
+        /*width: 200px;*/ /* Adjust this value based on the size of your image */
+        /*}*/
+        html, body {
+            height: 100%;
+            margin: 0;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .navbar-section, .jumbotron, .carousel {
+            flex: 1 0 auto;
+        }
+
+        .carousel-item {
+            object-fit: contain;
+            width: 100%;
+            max-height: 56.1vh;
+            object-fit: cover;
+        }
+
+        .container-index {
+            overflow: auto;
+            padding: 1em;
+        }
+
+        .jumbotron {
+            background-image: url('/Content/images/jaredd-craig-HH4WBGNyltc-unsplash.jpg');
+            background-size: cover;
+            color: white;
+        }
+
+            .jumbotron h3, .jumbotron p {
+                font-weight: bold; /* This will make the text bold */
+            }
+    </style>
+
+</head>
+
+<body>
+
+    <!--Navbar-->
+    <!--<div class="navbar-section">
+        <nav class="navbar navbar-expand-lg bg-light">
+            <div class="container-fluid">
+                <a class="navbar-brand" href="#">Book Management System</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="d-flex justify-content-end">
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                        <a class="btn btn-outline-success me-2" href="signup.html" role="button">SIGN UP</a>
+                        <a class="btn btn-outline-primary" href="login.html" role="button">SIGN IN</a>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </div>-->
+    <!--Navbar-->
+    <div class="navbar-section">
+        <nav class="navbar navbar-expand-lg" style="background-color:black ;  background-size: cover;">
+            <div class="container-fluid">
+                <a class="navbar-brand" href="#">
+                    <img src='/Content/images/studio-media-9DaOYUYnOls-unsplash.jpg' alt="Logo" style="width:40px;"> <!-- Add your logo image here -->
+                    Book Management System
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="d-flex justify-content-end">
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                        @Html.ActionLink("SIGN UP", "SignUp", "Account", null, new { @class = "btn btn-outline-success me-2" })
+                        @Html.ActionLink("SIGN IN", "SignIn", "Account", null, new { @class = "btn btn-outline-primary" })
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </div>
+
+
+    <!--Jumbotron-->
+    <div class="jumbotron">
+        <div class="container container-index">
+            <h3 class="display-6">Books are the plane, and the train, and the road. They are the destination, and the journey. They are home</h3>
+            <p>There is no friend as loyal as a book.</p>
+        </div>
+    </div>
+    <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+
+        <div class="carousel-inner">
+
+            <div class="carousel-item active">
+                <img src="~/Content/images/book2.jpg" class="d-block w-100" alt="book2">
+            </div>
+
+            <div class="carousel-item">
+                <img src="~/Content/images/book1.jpg" class="d-block w-100" alt="book1">
+            </div>
+
+
+            <div class="carousel-item">
+                <img src="~/Content/images/book3.jpg" class="d-block w-100" alt="book3">
+            </div>
+
+            <div class="carousel-item">
+                <img src="~/Content/images/openbook.jpg" class="d-block w-100" alt="openbook">
+            </div>
+        </div>
+    </div>
+
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+</body>
+</html>
+</html>

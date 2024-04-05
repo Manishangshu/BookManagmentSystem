@@ -1,0 +1,41 @@
+﻿@model List<bookmanagement.Models.User>
+
+@{
+    ViewBag.Title = "CustomerDetails";
+}
+@{
+    bookmanagement.Models.BookManagementDbContext db = new bookmanagement.Models.BookManagementDbContext();
+}
+<body style="background-image: url('/Content/images/customerdetails.png');">
+
+    <main>
+
+        <table class="table table-bordered" style="background-color: white;">
+            <thead class="table-light">
+                <tr>
+                    <th>First Name</th>
+
+                    <th>Last Name</th>
+
+                    <th>User Name</th>
+                    <th>Phone Number</th>
+
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr >
+                        <td>@item.FirstName</td>
+
+                        <td>@item.LastName</td>
+                        <td>@item.UserName</td>
+
+                        <td>@item.Phone_number</td>
+
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </main>
+</body>

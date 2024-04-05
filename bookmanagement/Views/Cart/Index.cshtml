@@ -1,0 +1,80 @@
+﻿@using bookmanagement.Models;
+@{
+    ViewBag.Title = "Index";
+}
+
+<style>
+    body {
+        background-color: thistle;
+    }
+</style>
+<div id="selectedArea">
+    <h2>Cart</h2>
+
+    <table class="table table-bordered table-hover">
+        <tr>
+
+            <th>Product Name</th>
+            <th>Product Price</th>
+            <th>Product Quantity</th>
+            <th>Product Amount</th>
+            <th>Operations</th>
+        </tr>
+
+        @foreach (var item in (List<Items_InCart>)Session["cart"])
+        {
+            <tr>
+
+                <td>
+                    @item.Product.BookName
+                </td>
+                <td>
+                    @item.Product.Price
+                </td>
+                <td>
+                    @item.Quantity
+                </td>
+                <td>
+                    @(item.Product.Price * item.Quantity)
+                </td>
+                <td>
+                    <a href="@Url.Action("RemoveFromCart", "Cart", new {@ProductID = item.Product.BookId })" class="btn btn-danger">Remove from Cart</a>
+                    <a href="~/Payment/Index" class="btn btn-success mb-3 mt-2">Purchase</a>
+                </td>
+            </tr>
+
+        }
+        <tr>
+            <td colspan="5"><h2 class="text-center">Total Amount to be paid</h2></td>
+
+            <td>
+                @{
+                    List<Items_InCart> cart = (List<Items_InCart>)Session["cart"];
+                    var total = (from data in cart select (data.Product.Price) * data.Quantity).Sum();
+                }
+
+@*<a href="~/Payment/Index" class="btn btn-success mb-3 mt-2">Purchase</a>*@.
+
+
+
+<h2>@total</h2>
+
+
+
+</td>
+    </tr>
+
+</table>
+    </div>
+    <button type="button" onclick="printSelectedArea()" class="btn btn-primary">
+        PRINT
+    </button>
+@*<script>
+    function printSelectedArea() {
+        var printContent = document.getElementById("selectedArea").innerHTML;
+        var originalContent = document.body.innerHTML;
+        document.body.innerHTML = printContent;
+        window.print();
+        document.body.innerHTML = originalContent;
+    }
+</script>*@
